@@ -1,3 +1,3 @@
-This is a test
-This is more text!
+This is a test. Merge conflict.
 # partner-git-practice
+Merge conflict!
